@@ -19,7 +19,6 @@
 ## 📌 Proyectos recientes
 
 - 🔐 Sistema de autenticación unificado con Laravel + Vue
-- 📊 Dashboard analítico de resultados académicos (Pruebas Saber Pro)
 - 🌐 Sitio web multiidioma con detección automática y rutas amigables
 
 ---

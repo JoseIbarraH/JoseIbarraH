@@ -4,7 +4,7 @@
 
 ---
 
-🎯 **Especialista en arquitecturas escalables** (Hexagonal & DDD) y soluciones de alta disponibilidad.  
+🎯 **Enfocado en el diseño de software robusto mediante Arquitectura Hexagonal y DDD para garantizar sistemas escalables y fáciles de mantener.  
 🛠️ **Full-stack con alma de DevOps:** Gestiono desde la lógica de negocio hasta el despliegue en infraestructura autogestionada (VPS/Docker).  
 🤖 **AI Integration Enthusiast:** Implementando chatbots educativos y sistemas de reconocimiento inteligente.
 
@@ -52,4 +52,4 @@
 
 ---
 
-### ⚡ "Si puedes imaginarlo, puedes programarlo (y luego desplegarlo en un VPS)."
+### "Si puedes imaginarlo, puedes programarlo."

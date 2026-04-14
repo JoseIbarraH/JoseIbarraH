@@ -1,34 +1,55 @@
 # 👋 ¡Hola! Soy Jose Carlos Ibarra
 
-**Desarrollador Web Full Stack | Laravel ⚙️ · Vue.js ⚡ · Inertia.js 🔗**
+**Systems Architect & Full Stack Developer | Laravel ⚙️ · Nuxt 3 🟢 · Astro 🚀 · NestJS 🦁**
 
 ---
 
-🎯 Apasionado por crear aplicaciones web limpias, intuitivas y funcionales.  
-🛠️ Actualmente trabajando en proyectos que combinan backend sólido con frontend dinámico.  
-🌍 Me encanta aprender nuevas tecnologías y contribuir a proyectos open source.
+🎯 **Especialista en arquitecturas escalables** (Hexagonal & DDD) y soluciones de alta disponibilidad.  
+🛠️ **Full-stack con alma de DevOps:** Gestiono desde la lógica de negocio hasta el despliegue en infraestructura autogestionada (VPS/Docker).  
+🤖 **AI Integration Enthusiast:** Implementando chatbots educativos y sistemas de reconocimiento inteligente.
 
 ---
 
-## 🧰 Tecnologías que uso
+## 🚀 Mi Stack Tecnológico
 
-<img src="https://skillicons.dev/icons?i=laravel,vue,js,ts,html,css,mysql,tailwind,git,vite" alt="Stack" />
+### Frontend & Backend
+<img src="https://skillicons.dev/icons?i=laravel,nuxtjs,astro,nestjs,vue,ts,php,mysql,postgres,mongodb" alt="Stack Tecnológico" />
 
----
-
-## 📌 Proyectos recientes
-
-- 🔐 Sistema de autenticación unificado con Laravel + Vue
-- 🌐 Sitio web multiidioma con detección automática y rutas amigables
+### Infraestructura & Automatización
+<img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,postman,pnpm" alt="Herramientas" />
+*+ Autohosting con Dokploy, n8n y MinIO.*
 
 ---
 
-## 📫 ¿Quieres contactarme?
+## 📌 Proyectos Destacados
 
-- LinkedIn: [linkedin.com/in/josecarlosibarra](https://linkedin.com/in/josé-carlos-ibarra-herrera-107b0617b)
-- Correo: [jcibarrah@hotmail.com](mailto:jcibarrah@hotmail.com)
+### 🏥 Almha Plastic Surgery Platform
+* **Stack:** Laravel + Nuxt 3 + AI.
+* Desarrollo de un ecosistema digital con catálogo de procedimientos y **chatbot con IA** para educación al paciente.
+* Automatización de citas y notificaciones vía **n8n** y **Evolution API**.
+
+### 🛡️ AI-Powered Access Control
+* **Stack:** Python (OpenCV) + YOLOv8 + OCR.
+* Sistema de seguridad inteligente con reconocimiento facial y de matrículas para control de acceso vehicular y peatonal.
+
+### 📊 Custom GA4 Dashboard
+* Integración de **Google Analytics Data API** en backend Laravel para visualización de métricas personalizadas en tiempo real.
 
 ---
 
-### ⚡ ¡Gracias por visitar mi perfil!
+## ✍️ Mi Filosofía de Desarrollo
+- **Código Limpio:** Fiel creyente de los principios SOLID y Clean Architecture.
+- **Eficiencia:** Si se puede automatizar con n8n, se automatiza.
+- **Self-Hosting:** Fan de la soberanía de datos y herramientas Open Source.
 
+---
+
+## 📫 ¿Quieres conectar conmigo?
+
+- **LinkedIn:** [linkedin.com/in/josé-carlos-ibarra](https://www.linkedin.com/in/josé-carlos-ibarra-107b0617b)
+- **GitHub:** [github.com/JoselbarraH](https://github.com/JoselbarraH)
+- **Email:** [jcibarrah@hotmail.com](mailto:jcibarrah@hotmail.com)
+
+---
+
+### ⚡ "Si puedes imaginarlo, puedes programarlo (y luego desplegarlo en un VPS)."

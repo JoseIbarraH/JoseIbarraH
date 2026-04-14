@@ -4,7 +4,7 @@
 
 ---
 
-🎯 **Enfocado en el diseño de software robusto mediante Arquitectura Hexagonal y DDD para garantizar sistemas escalables y fáciles de mantener.  
+🎯 **Enfocado en el diseño de software robusto mediante Arquitectura Hexagonal y DDD** para garantizar sistemas escalables y fáciles de mantener.  
 🛠️ **Full-stack con alma de DevOps:** Gestiono desde la lógica de negocio hasta el despliegue en infraestructura autogestionada (VPS/Docker).  
 🤖 **AI Integration Enthusiast:** Implementando chatbots educativos y sistemas de reconocimiento inteligente.
 
